@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shaps/Bureau/projectGit/Chat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/shaps/Bureau/projectGit/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33033020d0b36203755d645145b930f2da0dfecc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shaps/Bureau/projectGit/Chat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9003cb2aacc10966d5871327740504f1d88afeb">
+        <dex dex="/home/shaps/Bureau/projectGit/Chat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fe149a19b4020707aa98c403290cbbdfe1997d54/classes.dex" />
+    </item>
+
+</items>

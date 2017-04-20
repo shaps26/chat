@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eceff1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:src="@drawable/members"/>
+
+        <TextView
+            android:layout_width="15dp"
+            android:layout_height="30dp"
+            android:text="3"
+            android:textSize="25dp"
+            android:id="@+id/countMembers"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="50dp"
+            android:text="name of saloon"
+            android:textSize="25dp"
+            android:id="@+id/saloonName"/>
+
+
+        
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:id="@+id/TextMessenger"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="match_parent" />
+
+    <ImageView
+
+            android:layout_width="50dp"
+            android:layout_height="54dp"
+
+        android:background="#eceff1"
+        android:src="@drawable/send"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
